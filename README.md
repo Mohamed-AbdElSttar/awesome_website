@@ -1,4 +1,4 @@
-# rp_portfolio project #
+# awesome_website project #
 
 ## Description ##
 	This is a simple Django project that apply authentication and authorization with no styles, and use django authentication forms with dividing the fields to make more style customization available.
